@@ -4,7 +4,7 @@ Lightweight monitoring for AWS EC2 t2.micro using Prometheus + Node Exporter loc
 
 ## 1. Features
 
-- **System Metrics**: CPU, Memory, Disk
+- **System Metrics**: CPU, Memory, Disk usage
 - **Professional Dashboards**: Grafana Cloud interface
 - **Real-time Monitoring**: 30-second metric intervals
 
